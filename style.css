@@ -1,11 +1,18 @@
-.main{
-    background-color: red;
+body{
+    background-color: black;
 }
 
-h1{
-    background-color: aqua;
+.fondo{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100vh;
 }
 
-#main2{
-    background-color: blue;
+.perfil{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin-top: 25px;
 }
+
